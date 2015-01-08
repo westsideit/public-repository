@@ -1,3 +1,4 @@
 # public-repository
-public repository
-iI love :coffee:, :pizza:, :dancer:, and :beer:.
+My public repository
+
+I love :coffee:, :pizza:, :dancer:, and :beer:.
